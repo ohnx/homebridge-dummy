@@ -1,0 +1,7 @@
+        {
+            "accessory": "DummySwitch",
+            "name": "Garage Door",
+            "pin": 26,
+            "api": "localhost",
+            "length": "500"
+        }
