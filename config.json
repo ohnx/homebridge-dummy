@@ -1,5 +1,5 @@
         {
-            "accessory": "DummySwitch",
+            "accessory": "GpioToggle",
             "name": "Garage Door",
             "pin": 26,
             "api": "localhost",
